@@ -29,16 +29,19 @@ Requirements for this assignment included development of the site made up of the
 
 Working on multi-application project was a tremendous learning experience on many levels.
 
-
 Stepping into a project that was already underway was (in my view) about as "real-world" of an experience as I can imagine to prepare me for my future roles in software developement.
 
 Below are descriptions of the stories I worked on, along with code snippets and navigation links. I also have some full code files in this repo for the larger functionalities I implemented.  Please note, during the time that this project was ongoing, I experienced some personal challenges that impacted my ability to complete as many project stories as I had intended upon inception of the project.  However, I have attempted to provide perspective as it concerns the manner in which I approach and execute relative to the work that I produce. 
 
 ## Back End Stories
-* Create The Model
-* Edit and Delete Functions
-* Parse Through HTML
-* Connect to API
+
+* Create The Model: Story consisted of creating the new application, app registration, creation of home and base templates, addition of function to render the home page, registration of urls with the mainapp, and linking of the app's home page to the project home page via addition of an image link on the project home page. 
+
+* Edit and Delete Functions: Story consisted of addition of edit page to templates, use of models and forms to display content of a single item from database, sending of views function to send the information for the single item and save any changes, include option to delete an item with confirmation, and add styling as needed. 
+
+* Parse Through HTML: Story consisted of getting objects out of Beautiful Soup object, send just the values as relevent dictionary objects to the template, display all items within the data scrape template, testing and error handling, linking of data scraping page to the app's home page, and add styling as needed.
+
+* Connect to API: Story consisted of creation of a new API template and render within a function, connect to API and write a basic JSON response, create a way to search specific terms through the API, getting all data for the search, and commenting of which elements from the JSON response for the desired value.
 
 ### Create The Model
 ### Edit and Delete Functions
