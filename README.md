@@ -45,15 +45,14 @@ Below are descriptions of the stories I worked on, along with code snippets and 
 ### Parse Through HTML
 ### Connect to API
 
+
 ## Front End Stories
 * Display All Items from Database
 * Build the Basic App
 * Details Page
 
 ### Dislay All Items from Database
-
 ### Build the Basic App
-
 ### Details Page
 
 
