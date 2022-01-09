@@ -71,8 +71,3 @@ Finally, utilizing a DevOps project management methodologies, incorporating Scru
 * Email: <christianmethodical@gmail.com>
 
 Jump to: [Dependencies](#dependencies), [Introduction](#introduction), [Features](#features), [Back End Stories](#back), [Front Back Stories](#front), [Additional Thougnts](#additional). [Page Top](#appbuilder9000)
-
-
-
-
-
