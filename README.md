@@ -62,7 +62,7 @@ Below are descriptions of the stories I worked on, along with code snippets and 
 #### Details Page: Story consisted of addition of a details template folder and register url pattern, creation of a views function to find a single item from the database, and send it to the template.  Furthermore, addition of a link on the *display all items* page that directs to the details page for that item, display details of the item on the details page, and add styling as needed.
 
 
-## Image Gallery:  Below are some images to provide some context for this project:
+### Image Gallery:  Below are some images to provide some context for this project:
 
 * Project Main Landing Page:
 
