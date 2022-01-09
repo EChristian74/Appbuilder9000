@@ -64,8 +64,29 @@ Below are descriptions of the stories I worked on, along with code snippets and 
 
 ## Image Gallery:  Below are some images to provide some context for this project:
 
-![Project Main Landing Page](app_builder_9000_home.jpg)
+* Project Main Landing Page:
 
+![Project Main Landing Page](/img/app_builder_9000_home.jpg)
+
+* Application Directory:
+
+![Application Directory](/img/app_builder_9000_img_app_directory.jpg)
+
+* Image Link to My Page:
+
+![Image Link to My Page](/img/app_builder_9000_img_link.jpg)
+
+* Home Page for My Application:
+
+![Home Page for My Application](/img/app_builder_9000_inline_home.jpg)
+
+* Open Submit Review Form:
+
+![Open Submit Review Form](/img/app_builder_9000_inline_form_1.jpg)
+
+* Full Submit Review Form:
+
+![Full Submit Review Form](/img/app_builder_9000_inline_form_2.jpg)
 
 
 ## Additional Thoughts
