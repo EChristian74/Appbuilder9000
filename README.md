@@ -62,6 +62,12 @@ Below are descriptions of the stories I worked on, along with code snippets and 
 #### Details Page: Story consisted of addition of a details template folder and register url pattern, creation of a views function to find a single item from the database, and send it to the template.  Furthermore, addition of a link on the *display all items* page that directs to the details page for that item, display details of the item on the details page, and add styling as needed.
 
 
+## Image Gallery:  Below are some images to provide some context for this project:
+
+![Project Main Landing Page](app_builder_9000_home.jpg)
+
+
+
 ## Additional Thoughts
 
 Finally, utilizing a DevOps project management methodologies, incorporating Scrum task tracking, and Agile Boards was such a different experience from other projects I have participated that were not of a software development nature as it concerns.  I am astounded at the the effectiveness of these methods as it concerns efficiency, task management, accuracy and so on.  They are extremely powerful and I am very excited to venture into an industry that takes such a methodical and contrived approach to the work that I will do in the coming years. 
