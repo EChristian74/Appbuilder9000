@@ -17,7 +17,7 @@ Academy Software Developer Bootcamp](https://www.learncodinganywhere.com/codingb
 * [Django Rest Framework 3.11.0](https://)
 
 
-## Overview
+## Introduction
 
 The Tech Academy created a Django-based based multi-application simulation website that would essentially serve as a landing page to which a user could navigate to multiple sites each of which would be built around a specific topic of each team member's choosing.  My application for this project was based on the topic of inline speed skating, a hobby with which I have participated since my youth.  The end product for the application would be a Django Rest Framework in Python. 
 
@@ -66,7 +66,10 @@ Below are descriptions of the stories I worked on, along with code snippets and 
 Finally, utilizing a DevOps project management methodologies, incorporating Scrum task tracking, and Agile Boards was such a different experience from other projects I have participated that were not of a software development nature as it concerns.  I am astounded at the the effectiveness of these methods as it concerns efficiency, task management, accuracy and so on.  They are extremely powerful and I am very excited to venture into an industry that takes such a methodical and contrived approach to the work that I will do in the coming years. 
 
 
-## Links: 
+## Author Eric C. Boland
+
+### Links:
+
 * GitHub: <https://github.com/EChristian74>
 * LinkedIn: <https://www.linkedin.com/in/christianmethodical/>
 * Email: <christianmethodical@gmail.com>
