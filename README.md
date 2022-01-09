@@ -4,7 +4,7 @@ The purpose of this repository is for presentation of the first of two live proj
 Academy Software Developer Bootcamp](https://www.learncodinganywhere.com/codingbootcamps), based in Portland, Oregon and is a subsidiary of © Prosper Consulting Inc.
 
 
-##Dependencies:
+## Dependencies:
 
 * [Windows 10 OS](https://www.microsoft.com/en-us/software-download/)
 * [Python 3.9 64-Bit](https://)
