@@ -84,9 +84,13 @@ Below are descriptions of the stories I worked on, along with code snippets and 
 
 ![Open Submit Review Form](/img/app_builder_9000_inline_form_1.jpg)
 
-* Full Submit Review Form:
+* Submit Review Form:
 
-![Full Submit Review Form](/img/app_builder_9000_inline_form_2.jpg)
+![Submit Reviews Form](/img/app_builder_9000_inline_form_2.jpg)
+
+* Display Review Table:
+
+![Display Reviews Table](/img/app_builder_9000_display_table.jpg)
 
 
 ## Additional Thoughts
