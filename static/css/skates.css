@@ -1,0 +1,240 @@
+/* NAVBAR STYLING BEGIN */
+
+.navbar {
+    transition: all 0.4s;
+}
+
+.navbar .nav-link {
+    color: #fff;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+    color: #fff;
+    text-decoration: none;
+}
+
+.navbar .navbar-brand {
+    color: #fff;
+}
+
+
+/* Change navbar styling on scroll */
+
+.Navbar {
+    overflow: hidden;
+    background-color: #FFB600;
+}
+
+.Navbar a {
+    float: left;
+    color: #322514;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px #003300;
+}
+
+.Navbar a:hover {
+    background-color: #50BCB9;
+    color: white;
+}
+
+.Navbar a.active {
+    background-color: #50BDB9;
+    color: white;
+}
+
+.navbar.active {
+    background: #fff;
+    box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.navbar.active .nav-link {
+    color: #555;
+}
+
+.navbar.active .nav-link:hover,
+.navbar.active .nav-link:focus {
+    color: #555;
+    text-decoration: none;
+}
+
+.navbar.active .navbar-brand {
+    color: #555;
+}
+
+
+/* Change navbar styling on small viewports */
+@media (max-width: 991.98px) {
+    .navbar {
+        background: #fff;
+    }
+
+    .navbar .navbar-brand, .navbar .nav-link {
+        color: #555;
+    }
+}
+
+body {
+    min-height: 110vh;
+    background-image: url('/static/images/inline-background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+/* NAVBAR STYLING END */
+
+
+/* FOOTER STYLING BEGIN */
+
+.footer-basic {
+  padding:75px 0;
+}
+
+.footer-basic ul {
+  padding:0;
+  list-style:none;
+  text-align:center;
+  font-size:18px;
+  line-height:1.6;
+  margin-bottom:0;
+}
+
+.footer-basic li {
+  padding:0 10px;
+}
+
+.footer-basic ul a {
+  text-decoration:none;
+  opacity:0.8;
+}
+
+.footer-basic ul a:hover {
+  opacity:1;
+}
+
+.footer-basic .social {
+  text-align:center;
+  padding-bottom:15px;
+}
+
+.footer-basic .social > a {
+  font-size:24px;
+  width:40px;
+  height:40px;
+  line-height:40px;
+  display:inline-block;
+  text-align:center;
+  border-radius:50%;
+  border:1px solid #ccc;
+  margin:0 8px;
+  color:#0066ff;
+  opacity:0.75;
+}
+
+.footer-basic .social > a:hover {
+  opacity:0.9;
+}
+
+.footer-basic .copyright {
+  margin-top:10px;
+  text-align:center;
+  font-size:13px;
+  color:#aaa;
+  margin-bottom:0;
+}
+
+/* FOOTER STYLING END */
+
+
+/* REVIEW FORM STYLING BEGIN */
+
+/* FORM */
+.review_container {
+    margin: 0 auto;
+    width: 38%;
+    height: 100%;
+    background-color: rgba(51,51,51,0.8);
+	border: 2px solid #333;
+	border-radius: 10px;
+	color: white;
+	position: relative;
+	padding-bottom: 50px;
+}
+
+.reviewObject_container {
+	color: black;
+	display: inline-block;
+    width: 82%;
+    margin: 1% 0 0 12px;
+    padding: 0;
+    text-align: center;
+}
+
+label {
+	display: inline-block;
+    width: 95%;
+    text-align: left;
+    margin: 1% 0 0 0;
+    color: white;
+    font-weight: bold;
+    line-height: 18px;
+    font-size: 20px;
+}
+
+input, textarea {
+    width: 115%;
+    margin: 0 0 0 12px;
+    padding: 1% 0 2% 1%;
+    line-height: 18px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: 2px solid #9b775d;
+}
+
+.reviewBtn_container {
+    margin: 0 auto;
+    position: absolute;
+    left: 38%;
+}
+
+.reviewBtn {
+    border-radius: 4px;
+    position: absolute;
+    left: 38%;
+    width: 100px;
+}
+
+/* REVIEW FORM STYLING END */
+
+
+/* DISPLAY VIEW BEGIN */
+#table, #th, #td {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 12px;
+    text-align: center;
+    border: 1px solid black;
+    background-color: rgba(51,51,51,0.8);
+    border-radius: 10px;
+    width: 1000px;
+}
+
+#th {
+    background-color: background-color: rgba(51,51,51,0.8);
+    color: #00ff00;
+    height: 50px;
+    opacity:0.80;
+}
+
+#td {
+    background-color: white;
+    opacity:0.60;
+}
+
+
+/* DISPLAY VIEW END*/

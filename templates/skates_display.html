@@ -1,0 +1,42 @@
+{% extends 'skates_base.html' %}
+
+{% block title %}All Skate Reviews{% endblock %}
+
+{% block header %}{% endblock %}
+
+{% block content %}
+    <div class="table-container">
+        <table id="table">
+            <thead>
+                <tr id="th">
+                    <th>Brand</th>
+                    <th>Boot Materials</th>
+                    <th>Boot Style</th>
+                    <th>Frame</th>
+                    <th>Bearings Rating</th>
+                    <th>Bearings Material</th>
+                    <th>Comfort</th>
+                    <th>Overall Rating</th>
+                    <th>Pros</th>
+                    <th>Cons</th>
+                </tr>
+            </thead>
+            <tbody>
+            {% for record in records %}
+                <tr id="td">
+                    <td>{{ record.skate_brand }}</td>
+                    <td>{{ record.boot_materials }}</td>
+                    <td>{{ record.boot_style }}</td>
+                    <td>{{ record.frame }}</td>
+                    <td>{{ record.bearings_rating }}</td>
+                    <td>{{ record.bearings_material }}</td>
+                    <td>{{ record.comfort }}</td>
+                    <td>{{ record.overall_rating }}</td>
+                    <td>{{ record.pros }}</td>
+                    <td>{{ record.cons }}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+{% endblock %}

@@ -1,0 +1,18 @@
+{% extends 'skates_base.html' %}
+
+{% block title %}Submit Review{% endblock %}
+
+{% block content%}
+<div class="review_container">
+    <!-- call to create review record -->
+    <form method="POST">
+        <h1>Speed Skate Review Form</h1>
+        <div class="reviewObject_container">
+        {% csrf_token %}
+        {{ form.as_p }}
+            <button class="reviewBtn" type="submit" name="Review_Create">Add Record</button>
+        </div>
+    </form>
+</div>
+{% endblock %}
+
